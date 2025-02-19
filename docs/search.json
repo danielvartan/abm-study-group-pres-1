@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html#hi-there",
+    "href": "index.html#hi-there",
+    "title": "ABM Study Group:2024 Balance\n",
+    "section": "Hi there! 👋",
+    "text": "Hi there! 👋\n\n\nIn this presentation, I’ll review our progress to date and propose new objectives for the future.\n\nWe’ll explore the following topics:\n\nOur Progress\nGroup Stats\nOur Methods\nOur Objectives\nOur Schedule\n\n\n\n\n\n\n\n\n\n(Artwork by MN FADHIL FADLI)"
+  },
+  {
+    "objectID": "index.html#our-progress",
+    "href": "index.html#our-progress",
+    "title": "ABM Study Group:2024 Balance\n",
+    "section": "Our Progress",
+    "text": "Our Progress"
+  },
+  {
+    "objectID": "index.html#group-stats",
+    "href": "index.html#group-stats",
+    "title": "ABM Study Group:2024 Balance\n",
+    "section": "Group Stats",
+    "text": "Group Stats\nTotal members: 25 (as of 2025-02-19)\nPresentations: 4\n\nAttendance\n1st Meeting (2024-10-09): 13/24 (~54.17%)\n2nd Meeting (2024-11-13): 11/24 (~45.83%)\n3rd Meeting (2024-12-11): 9/24 (~37.50%)"
+  },
+  {
+    "objectID": "index.html#our-methods",
+    "href": "index.html#our-methods",
+    "title": "ABM Study Group:2024 Balance\n",
+    "section": "Our Methods",
+    "text": "Our Methods\n\n\nLow Threshold, No Ceiling(Tisue & Wilensky, 2004)\nContributor Covenant Code of Conduct\n\n2-hour Monthly Meetings\n~30-minute for group organization\n~30-minute theoretical presentation\n~30-minute practical presentation\n~30-minute discussion\n\n\n\n\n\n\n\n\n(Book cover image from Railsback & Grimm (2019))"
+  },
+  {
+    "objectID": "index.html#our-methods-1",
+    "href": "index.html#our-methods-1",
+    "title": "ABM Study Group:2024 Balance\n",
+    "section": "Our Methods",
+    "text": "Our Methods\n\n\nIs the way we are conducting activities working?\n\nWhat can we do to improve it?\n\n\n\n\n\n\n\n(Book cover image from Railsback & Grimm (2019))"
+  },
+  {
+    "objectID": "index.html#our-objectives-proposed",
+    "href": "index.html#our-objectives-proposed",
+    "title": "ABM Study Group:2024 Balance\n",
+    "section": "Our Objectives (Proposed)\n",
+    "text": "Our Objectives (Proposed)\n\n\n2nd Semester 2024\nEstablish and manage the group; Introduce modeling concepts, ABMs, NetLogo, and the ODD Protocol (Part I)\n\n\n1st Semester 2025\nExplore the entire ODD Protocol, enabling participants to create and structure their own ABMs (Part II)\n\n\n2nd semester 2025\nLearn how to parameterize, calibrate, and analyze ABMs effectively(Parts III & IV)"
+  },
+  {
+    "objectID": "index.html#our-objectives-proposed-1",
+    "href": "index.html#our-objectives-proposed-1",
+    "title": "ABM Study Group:2024 Balance\n",
+    "section": "Our Objectives (Proposed)\n",
+    "text": "Our Objectives (Proposed)\n\n\n\nOverview\n\n\nPurpose and Patterns\nEntities, State Variables, and Scales\nProcess Overview and Scheduling\n\n\n\n\n\nDesign Concepts\n\n\nBasic Principles\nEmergence\nAdaptation\nObjectives\nLearning\nPrediction\nSensing\nInteraction\nStochasticity\nCollectives\nObservation\n\n\n\n\n\nDetails\n\n\nInitialization\nInput Data\nSubmodels\n\n\n\n\n(Based on Railsback & Grimm (2019))"
+  },
+  {
+    "objectID": "index.html#our-schedule-proposed",
+    "href": "index.html#our-schedule-proposed",
+    "title": "ABM Study Group:2024 Balance\n",
+    "section": "Our Schedule (Proposed)\n",
+    "text": "Our Schedule (Proposed)\n\n\n\nFebruary 199 & 10 – Observation & Sensing\nMarch 12 11 – Adaptive Behavior and Objectives\nApril 1612 & 13 – Prediction & Interaction\nMay 1414 & 15 – Scheduling & Stochasticity\nJune 1816 & 17 – Collectives\n\n\n\nAugust 1318 – Patterns for Model Structure\nSeptember 1019 – Theory Development\nOctober 820 – Parameterization and Calibration\nNovember 1922 – Analyzing and Understanding ABMs\nDecember 1023 – Sensitivity, Uncertainty, and Robustness Analysis"
+  },
+  {
+    "objectID": "index.html#closing-remarks",
+    "href": "index.html#closing-remarks",
+    "title": "ABM Study Group:2024 Balance\n",
+    "section": "Closing Remarks",
+    "text": "Closing Remarks\n \nThis presentation was created with the Quarto Publishing System. The code and materials are available on GitHub.\n\n\n\n\n\n(Artwork by Allison Horst)"
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "ABM Study Group:2024 Balance\n",
+    "section": "References",
+    "text": "References\n\nIn accordance with the American Psychological Association (APA) Style, 7th edition.\n\n\n\nRailsback, S. F., & Grimm, V. (2019). Agent-based and individual-based modeling: A practical introduction (2nd ed.). Princeton University Press.\n\n\nTisue, S., & Wilensky, U. (2004). NetLogo: A simple environment for modeling complexity. Center for Connected Learning and Computer-Based Modeling. https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a65e2af0f4a1b03db4b05357c4cb3b8a6a4d7894"
+  },
+  {
+    "objectID": "index.html#thank-you",
+    "href": "index.html#thank-you",
+    "title": "ABM Study Group:2024 Balance\n",
+    "section": "Thank you!",
+    "text": "Thank you!\n\n\n\n\n\n(Artwork by Allison Horst)"
+  }
+]

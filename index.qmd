@@ -1,0 +1,259 @@
+## Hi there! 👋 {.smaller}
+
+```{r}
+#| label: setup
+#| include: false
+
+source(here::here("R/_setup.R"))
+```
+
+::::: {.columns}
+:::: {.column style="width: 55%;"}
+In this presentation, I'll review our progress to date and propose new objectives for the future.
+
+::: {style="padding-top: 15px;"}
+We'll explore the following topics:
+
+1. [**Our Progress**]{.brand-brown}
+1. [**Group Stats**]{.brand-brown}
+1. [**Our Methods**]{.brand-brown}
+1. [**Our Objectives**]{.brand-brown}
+1. [**Our Schedule**]{.brand-brown}
+:::
+::::
+:::: {.column style="width: 45%; padding-top: 50px;"}
+![](images/mn-fadhil-fadli-image-1-rgb-72-dpi.png){fig-align="center" style="width: 100%;"}
+::::
+:::::
+
+::: footer
+(Artwork by  [MN FADHIL FADLI](https://www.vecteezy.com/vector-art/17678882-plant-growth-isometric-pixel-art-game-assets))
+:::
+
+::: {.notes}
+:::
+
+## Our Progress
+
+::: {.notes}
+:::
+
+## Group Stats
+
+Total members: **25** (as of 2025-02-19)
+
+Presentations: **4**
+
+::: {style="padding-top: 15px;"}
+[**Attendance**]{.brand-brown}
+
+1st Meeting (2024-10-09): **13/24** (~54.17%)
+
+2nd Meeting (2024-11-13): **11/24** (~45.83%)
+
+3rd Meeting (2024-12-11): **9/24** (~37.50%)
+:::
+
+::: {.notes}
+:::
+
+
+## Our Methods {.smaller}
+
+::::: {.columns}
+:::: {.column style="width: 50%;"}
+**Low Threshold, No Ceiling**<br>[@tisue2004]
+
+[Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
+
+::: {style="padding-top: 15px;"}
+**2-hour Monthly Meetings**
+
+~30-minute for group organization
+
+~30-minute theoretical presentation
+
+~30-minute practical presentation
+
+~30-minute discussion
+:::
+::::
+:::: {.column style="width: 50%; padding-top: 0px;"}
+![](images/railsback-2019-cover.png){fig-align="center" style="width: 80%;"}
+::::
+:::::
+
+::: footer
+(Book cover image from @railsback2019a)
+:::
+
+::: {.notes}
+:::
+
+
+## Our Methods {.smaller}
+
+:::: {.columns}
+::: {.column style="width: 50%; padding-top: 100px;"}
+**Is the way we are conducting activities working?**
+
+<br>
+
+**What can we do to improve it?**
+:::
+::: {.column style="width: 50%; padding-top: 0px;"}
+![](images/railsback-2019-cover.png){fig-align="center" style="width: 80%;"}
+:::
+::::
+
+::: footer
+(Book cover image from @railsback2019a)
+:::
+
+## Our Objectives [(Proposed)]{.brand-grey} {.smaller}
+
+::: {}
+[2nd Semester 2024]{.brand-brown .bold}
+
+Establish and manage the group; **Introduce** modeling concepts, ABMs, NetLogo, and the ODD Protocol ([Part I]{.brand-red .bold})
+:::
+
+::: {style="padding-top: 30px;"}
+[1st Semester 2025]{.brand-brown .bold}
+
+Explore the entire **ODD Protocol**, enabling participants to **create** and structure their own ABMs ([Part II]{.brand-red .bold})
+:::
+
+::: {style="padding-top: 30px;"}
+[2nd semester 2025]{.brand-brown .bold}
+
+Learn how to parameterize, calibrate, and **analyze** ABMs effectively<br>([Parts III & IV]{.brand-red .bold})
+:::
+
+::: {.notes}
+:::
+
+## Our Objectives [(Proposed)]{.brand-grey} {.smaller}
+
+::::: {.columns}
+:::: {.column style="width: 30%;"}
+[Overview]{.brand-brown .bold}
+
+::: {style="font-size: 0.85em;"}
+A) Purpose and Patterns
+A) Entities, State Variables, and Scales
+A) Process Overview and Scheduling
+:::
+::::
+:::: {.column style="width: 10%;"}
+::::
+:::: {.column style="width: 30%;"}
+[Design Concepts]{.brand-brown .bold}
+
+::: {style="font-size: 0.85em;"}
+A) Basic Principles
+A) ~~Emergence~~
+A) Adaptation
+A) Objectives
+A) Learning
+A) Prediction
+A) [Sensing]{.brand-red .bold}
+A) Interaction
+A) Stochasticity
+A) Collectives
+A) [Observation]{.brand-red .bold}
+:::
+::::
+:::: {.column style="width: 5%;"}
+::::
+:::: {.column style="width: 25%;"}
+[Details]{.brand-brown .bold}
+
+::: {style="font-size: 0.85em;"}
+A) Initialization
+A) Input Data
+A) Submodels
+:::
+::::
+:::::
+
+::: footer
+(Based on @railsback2019a)
+:::
+
+::: {.notes}
+:::
+
+
+## Our Schedule [(Proposed)]{.brand-grey} {.smaller}
+
+:::: {.columns}
+::: {.column style="width: 45%; font-size: 0.9em;"}
+[**February**]{.brand-red} **19**<br>9 & 10 – Observation & Sensing
+
+[**March**]{.brand-brown} **12** <br>11 – Adaptive Behavior and Objectives
+
+[**April**]{.brand-brown} **16**<br>12 & 13 – Prediction & Interaction
+
+[**May**]{.brand-brown} **14**<br>14 & 15 – Scheduling & Stochasticity
+
+[**June**]{.brand-brown} **18**<br>16 & 17 – Collectives
+:::
+::: {.column style="width: 5%; font-size: 0.9em;"}
+:::
+::: {.column style="width: 45%; font-size: 0.9em;"}
+[**August**]{.brand-brown} **13**<br>18 – Patterns for Model Structure
+
+[**September**]{.brand-brown} **10**<br>19 – Theory Development
+
+[**October**]{.brand-brown} **8**<br>20 – Parameterization and Calibration
+
+[**November**]{.brand-brown} **19**<br>22 – Analyzing and Understanding ABMs
+
+[**December**]{.brand-brown} **10**<br>23 – Sensitivity, Uncertainty, and Robustness Analysis
+:::
+::::
+
+::: {.notes}
+:::
+
+## Closing Remarks {.smaller}
+
+[![License:
+MIT](images/mit-license-badge.svg){style="width: 10.5%; padding-top: 0px;"}](https://choosealicense.com/licenses/mit/)
+[![License: CC BY
+4.0](images/cc-licence-badge.svg){style="width: 15%; padding-top: 0px;"}](https://creativecommons.org/licenses/by/4.0/)
+
+This presentation was created with the [Quarto](https://quarto.org/) Publishing System. The code and materials are available on [GitHub](https://github.com/danielvartan/abm-study-group-pres).
+
+![](images/allison-horst-figure-1.png){fig-align="center" style="width: 80%; padding-top: 50px;"}
+
+::: footer
+(Artwork by [Allison Horst](https://twitter.com/allison_horst))
+:::
+
+::: {.notes}
+:::
+
+## References {.smaller}
+
+::: {style="font-size: 0.75em;"}
+In accordance with the [American Psychological Association (APA) Style](https://apastyle.apa.org/), 7th edition.
+:::
+
+::: {#refs style="font-size: 0.75em;"}
+:::
+
+::: {.notes}
+:::
+
+## Thank you! {.nostretch}
+
+![](images/allison-horst-figure-3.png){fig-align="center" style="width: 70%; padding-top: 25px;"}
+
+::: footer
+(Artwork by [Allison Horst](https://twitter.com/allison_horst))
+:::
+
+::: {.notes}
+:::
