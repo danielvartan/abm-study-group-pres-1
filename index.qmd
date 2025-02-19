@@ -199,7 +199,7 @@ A) Submodels
 
 [**April**]{.brand-brown} **16**<br>12 & 13 – Prediction & Interaction
 
-[**May**]{.brand-brown} [**5**]{.red} or [**21**]{.red}<br>14 & 15 – Scheduling & Stochasticity
+[**May**]{.brand-brown} **21**<br>14 & 15 – Scheduling & Stochasticity
 
 [**June**]{.brand-brown} **18**<br>16 & 17 – Collectives
 :::
