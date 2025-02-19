@@ -27,13 +27,19 @@ We'll explore the following topics:
 :::::
 
 ::: footer
-(Artwork by  [MN FADHIL FADLI](https://www.vecteezy.com/vector-art/17678882-plant-growth-isometric-pixel-art-game-assets))
+(Artwork by [MN FADHIL FADLI](https://www.vecteezy.com/vector-art/17678882-plant-growth-isometric-pixel-art-game-assets))
 :::
 
 ::: {.notes}
 :::
 
 ## Our Progress
+
+![](images/freepick-timeline-rgb-96-dpi.png){fig-align="center" style="width: 100%; padding-top: 100px"}
+
+::: footer
+(Based on a vector designed by [Freepik](https://www.freepik.com/free-vector/flat-design-timeline-infographic_13596540.htm))
+:::
 
 ::: {.notes}
 :::
