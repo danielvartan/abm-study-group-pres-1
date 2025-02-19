@@ -55,9 +55,9 @@ Presentations: **7** (as of 2025-02-19)
 
 1st Meeting (2024-10-09): **13/24** (~54.17%)
 
-2nd Meeting (2024-11-13): **11/24** (~45.83%)
+2nd Meeting (2024-11-13): **11/25** (44.00%)
 
-3rd Meeting (2024-12-11): **9/24** (~37.50%)
+3rd Meeting (2024-12-11): **9/25** (36.00%)
 :::
 
 ::: {.notes}
@@ -201,7 +201,7 @@ A) Submodels
 
 [**May**]{.brand-brown} **21**<br>14 & 15 – Scheduling & Stochasticity
 
-[**June**]{.brand-brown} **18**<br>16 & 17 – Collectives
+[**June**]{.brand-brown} **18**<br>16 – Collectives
 :::
 ::: {.column style="width: 5%; font-size: 0.9em;"}
 :::
