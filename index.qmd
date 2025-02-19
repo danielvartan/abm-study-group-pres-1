@@ -48,7 +48,7 @@ We'll explore the following topics:
 
 Total members: **25** (as of 2025-02-19)
 
-Presentations: **4**
+Presentations: **7** (as of 2025-02-19)
 
 ::: {style="padding-top: 15px;"}
 [**Attendance**]{.brand-brown}
@@ -62,7 +62,6 @@ Presentations: **4**
 
 ::: {.notes}
 :::
-
 
 ## Our Methods {.smaller}
 
@@ -201,7 +200,7 @@ A) Submodels
 
 [**April**]{.brand-brown} **16**<br>12 & 13 – Prediction & Interaction
 
-[**May**]{.brand-brown} **14**<br>14 & 15 – Scheduling & Stochasticity
+[**May**]{.brand-brown} [**5**]{.red}<br>14 & 15 – Scheduling & Stochasticity
 
 [**June**]{.brand-brown} **18**<br>16 & 17 – Collectives
 :::
