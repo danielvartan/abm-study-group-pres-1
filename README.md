@@ -10,7 +10,7 @@ MIT](https://img.shields.io/badge/license-MIT-green)](https://choosealicense.com
 
 🕹️🤖🔄✨🌀🌍️📉📈️📊🔬🔎🔗🕸⏳
 
-This repository contains the slides from a presentation delivered on February 19, 2025, at the _Agent-Based Model Study Group_ of the [Sustentarea](https://www.fsp.usp.br/sustentarea/) Research and Extension Center at the University of São Paulo ([USP](https://www5.usp.br/)). You can access the slides [here](https://danielvartan.github.io/abm-study-group/).
+This repository contains the slides from a presentation delivered on February 19, 2025, at the _Agent-Based Model Study Group_ of the [Sustentarea](https://www.fsp.usp.br/sustentarea/) Research and Extension Center at the University of São Paulo ([USP](https://www5.usp.br/)). You can access the slides [here](https://danielvartan.github.io/abm-study-group-pres-1/).
 
 The code in this repository is licensed under the [MIT
 License](https://opensource.org/license/mit/), while the documents are available under the [Creative Commons Attribution 4.0 International
