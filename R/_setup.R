@@ -39,11 +39,27 @@ knitr::opts_chunk$set(
 sysfonts::font_paths(here::here("ttf"))
 
 sysfonts::font_add(
-  family = "open-sans",
-  regular = here::here("ttf", "opensans-regular.ttf"),
-  bold = here::here("ttf", "opensans-bold.ttf"),
-  italic = here::here("ttf", "opensans-italic.ttf"),
-  bolditalic = here::here("ttf", "opensans-bolditalic.ttf"),
+  family = "poppins",
+  regular = here::here("ttf", "poppins-regular.ttf"),
+  bold = here::here("ttf", "poppins-bold.ttf"),
+  italic = here::here("ttf", "poppins-italic.ttf"),
+  bolditalic = here::here("ttf", "poppins-bolditalic.ttf"),
+  symbol = NULL
+)
+
+sysfonts::font_add(
+  family = "dm-sans",
+  regular = here::here("ttf", "dmsans-regular.ttf"),
+  bold = here::here("ttf", "dmsans-bold.ttf"),
+  italic = here::here("ttf", "dmsans-italic.ttf"),
+  bolditalic = here::here("ttf", "dmsans-bolditalic.ttf"),
+  symbol = NULL
+)
+
+sysfonts::font_add(
+  family = "dm-mono",
+  regular = here::here("ttf", "dmmono-medium.ttf"),
+  italic = here::here("ttf", "dmmono-mediumitalic.ttf"),
   symbol = NULL
 )
 
@@ -56,7 +72,7 @@ ggplot2::theme_set(
   ggplot2::theme(
     text = ggplot2::element_text(
       color = get_brand_color("black"),
-      family = "open-sans",
+      family = "poppins",
       face = "plain"
     ),
     panel.background = ggplot2::element_rect(fill = "transparent"),
